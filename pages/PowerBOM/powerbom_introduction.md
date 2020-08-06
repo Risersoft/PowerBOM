@@ -17,6 +17,8 @@ PowerBOM is a drawing bill of material application designed to provide enormous 
 
 PowerBOM integrates per drawing bill of material with Inventory Item codes enabling easy consolidation and segregation of materials required for various uses.
 
+![](/images/powerbom-banner.jpg)
+
 ![](/images/introduction.png)
 
 **• Easy Material Selection**
@@ -35,5 +37,24 @@ Automate preparation of various reports and reduce manual time, labour and chanc
 
 PowerBOM is designed with collaboration in mind. You can collaborate between two people sitting next to each other or teams sitting half way across the planet.
 
+
+**• Prepare**
+
+Inventory Item codes, Material Properties, Standard Drawings, Document List, Document wise BOM.
+
+
+**• Report**
+
+Consolidated Material Lists, Quality control check list, Fastener List, Gasket lists, Thickness wise parts list, automatic nesting through interface.
+
+
+**• Automate**
+
+Define parametric items in standard drawings and use in work order document with auto material computation.
+
+
+**• Multi Platform**
+
+Securely access your cloud hosted data from desktop, web & mobile.
 
 

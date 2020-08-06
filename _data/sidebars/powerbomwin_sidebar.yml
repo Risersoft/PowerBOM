@@ -3,7 +3,7 @@
 
 entries:
 - title: Sidebar
-  product: PowerBOM
+  product: PowerBOM Windows
   
   folders:
 
@@ -21,8 +21,217 @@ entries:
       type: frontmatter
 
   - title: Introduction
-    output: single
+    output: web,pdf
     url: /powerbom-win/introduction.html
+    
+    folderitems:
+    - title: How it Works
+      url: /powerbom-win/how-it-works.html
+      output: web, pdf
+      
+    - title: Features
+      url: /powerbom-win/features.html
+      output: web, pdf
+
+  - title: Terminology
+    output: single   
+    url: /powerbom-win/terminology.html
+    folderitems:
+    -   
+       
+  - title: Documentation Notes
+    output: single
+    url: /powerbom-win/documentation-notes.html
     folderitems:
     -
+
+  - title: General Environment
+    url: /powerbom-win/general-environment.html 
+    output: web, pdf
+
+    folderitems:
+    - title: Main Screen
+      url: /powerbom-win/main-screen.html
+      output: web, pdf
+
+    - title: Menu Commands
+      url: /powerbom-win/menu-commands.html
+      output: web, pdf
+      
+    - title: Toolbar Commands
+      url: /powerbom-win/toolbar-commands.html
+      output: web, pdf
+      
+    - title: Filtering System
+      url: /powerbom-win/filtering-system.html
+      output: web, pdf
+      
+               
+    - title: Printing
+      url: /powerbom-win/printing.html
+      output: web, pdf
+      
+    - title: Browser
+      url: /powerbom-win/browser.html
+      output: web, pdf
+      
+    - title: Collaboration Features
+      url: /powerbom-win/collaboration-features.html
+      output: web, pdf
+      
+    - title: Data Entry Screens
+      url: /powerbom-win/data-entry-screens.html
+      output: web, pdf
+
+  - title: Item Coding System
+    url: /powerbom-win/item-coding-system.html
+    output: web, pdf
+    folderitems:
+    
+    - title: Item Schedule
+      output: web,pdf
+      url: /powerbom-win/item-schedule.html
+      
+      
+    - title: Item Sub Category
+      url: /powerbom-win/item-sub-category.html
+      output: web, pdf
+     
+          
+    - title: Material Type
+      url: /powerbom-win/material-type.html
+      output: web, pdf        
+          
+      
+    - title: Item Code
+      url: /powerbom-win/item-code.html
+      output: web, pdf  
+      
+                
+  - title: Standard Drawing
+    output: single   
+    url: /powerbom-win/standard-drawing.html
+    folderitems:
+    -
+    
+  - title: Work Order
+    output: single   
+    url: /powerbom-win/work-order.html
+    folderitems:
+    -
+
+  - title: Work Order Document
+    output: single   
+    url: /powerbom-win/work-order-document.html
+    folderitems:
+    -    
+  
+  - title: Bill of Materials
+    url: /powerbom-win/bill-of-materials.html
+    output: web, pdf  
+      
+    folderitems :
+    - title: Part Item
+      output: web
+      url: /powerbom-win/part-item.html
+ 
+
+    - title: Drawing Item Collection
+      output: web  
+      url: /powerbom-win/drawing-item-collection.html
+
+      
+    - title: Standard Reference
+      output: web   
+      url: /powerbom-win/standard-reference.html
+
+
+    - title: File Reference
+      output: web  
+      url: /powerbom-win/file-reference.html
+ 
+    
+    - title: Item Collection
+      output: web  
+      url: /powerbom-win/item-collection.html
+      
+
+    - title: Hardware
+      output: web   
+      url: /powerbom-win/hardware.html
+      
+ 
+    - title: General Part
+      output: web   
+      url: /powerbom-win/general-part.html
+      
+
+    - title: Numbering Features
+      output: web 
+      url: /powerbom-win/numbering-features.html
+ 
+
+
+  - title: Output Reports
+    url: /powerbom-win/output-reports.html
+    output: web, pdf
+    folderitems:
+    
+    - title: Bill of Material for Work Order Document
+      url: /powerbom-win/bill-of-material-for-work-order-document.html
+      output: web, pdf
+      
+    - title: Bill of Material for Work Order Document with Collection
+      url: /powerbom-win/bill-of-material-for-work-order-document-with-collection.html
+      output: web, pdf
+      
+    - title: Material Requirement – Consolidated and Segregated
+      url: /powerbom-win/material-requirement-consolidated-and-segregated.html
+      output: web, pdf  
+      
+    - title: QC Check Lists
+      url: /powerbom-win/qc-check-listd.html
+      output: web, pdf 
+      
+    - title: Thickness Wise
+      url: /powerbom-win/thickness-wise.html
+      output: web, pdf 
+      
+  - title: Nesting Requirement
+    output: single   
+    url: /powerbom-win/nesting-requirement.html
+    folderitems:
+    -    
+  
+  - title: Nest
+    output: web  
+    url: /powerbom-win/nest.html
+    
+    folderitems:
+    - title: Nesting Provider
+      output: web
+      url: /powerbom-win/nesting-provider.html
+      
+  - title: Parametric Standard Drawing
+    url: /powerbom-win/parametric-standard-drawing.html
+    output: web, pdf
+    folderitems:
+      
+    - title: Specifying Parameters
+      url: /powerbom-win/specifying-parameters.html
+      output: web, pdf
+      
+    - title: Using in Drawing Items
+      url: /powerbom-win/using-in-drawing-items.html
+      output: web, pdf
+      
+    - title: Specifying Values
+      url: /powerbom-win/specifying-values.html
+      output: web, pdf
+      
+    - title: Specific CNC File for Calculated Drawing Item
+      url: /powerbom-win/specific-cnc-file-for-calculated-drawing-item.html
+      output: web, pdf
+      
+   
   
